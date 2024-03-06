@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.play:integrity:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1e352cbb2752f8ca04e5f613e4dfde69/transformed/jetified-integrity-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d4f6f05bd81c9a07a09a77bb271a3c6a/transformed/integrity-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2280236aa67048ee33a8506ddf49d44e/transformed/jetified-integrity-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d77838ec2e637d50df81339fa5ec800f/transformed/jetified-integrity-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f0c7c0bca3a6d39b17e45112b7ae38d7/transformed/jetified-integrity-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6edd211e583023b0374473c6ea86181f/transformed/jetified-integrity-1.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6edd211e583023b0374473c6ea86181f/transformed/jetified-integrity-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6edd211e583023b0374473c6ea86181f/transformed/jetified-integrity-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

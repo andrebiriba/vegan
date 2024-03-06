@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.recaptcha:recaptcha:18.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ff53de3cdf6c392a23922f6da18ad722/transformed/jetified-recaptcha-18.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c7f6f46958ed4c0a8c25fe91e3b0d2be/transformed/recaptcha-18.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7cff285de6e986e7580f587215ab1a2f/transformed/jetified-recaptcha-18.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bf808e313798fcd04d3414a8b0119983/transformed/jetified-recaptcha-18.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/da7df282b9df60a3627577979b3415a9/transformed/jetified-recaptcha-18.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0cc045c8976a5d00cab0a98581e4930a/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0cc045c8976a5d00cab0a98581e4930a/transformed/jetified-recaptcha-18.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0cc045c8976a5d00cab0a98581e4930a/transformed/jetified-recaptcha-18.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.recaptcha/recaptcha/18.1.2/8d54f17bc224f610f825894c8042dbf16db0778f/recaptcha-18.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

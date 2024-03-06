@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.carbs.android:MDDialog:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/63075e8774b45467e04ccd5d2ee9d642/transformed/jetified-MDDialog-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/63075e8774b45467e04ccd5d2ee9d642/transformed/jetified-MDDialog-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/63075e8774b45467e04ccd5d2ee9d642/transformed/jetified-MDDialog-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.carbs.android/MDDialog/1.0.0/b5220a18467e6a49c776cda9686c682656c7b038/MDDialog-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.carbs.android/MDDialog/1.0.0/d64a1ac30786ec067951859ba26645f546db2b63/MDDialog-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebase:geofire-android:2.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d68e6a65138c3cd5fe4ad23d1cc8f30/transformed/jetified-geofire-android-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/51803a803102c709eb0e73009b2e8b60/transformed/geofire-android-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/715808cb76d40f9702e81a164d02a787/transformed/jetified-geofire-android-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9e39ae440176f241a6970b1755fe5a94/transformed/jetified-geofire-android-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7ea7fa81e5e85692def7e980f300a0e8/transformed/jetified-geofire-android-2.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2abf7b1cb93fc862a4f966be29258597/transformed/jetified-geofire-android-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2abf7b1cb93fc862a4f966be29258597/transformed/jetified-geofire-android-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2abf7b1cb93fc862a4f966be29258597/transformed/jetified-geofire-android-2.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/geofire-android/2.1.2/d2d21a86b723366315aad73fa8eca5f4c7be0be3/geofire-android-2.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/geofire-android/2.1.2/37f0b35a6c84fbaedd51d591f6efa21371cad8af/geofire-android-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

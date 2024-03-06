@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lisawray.groupie:groupie:2.10.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/06e59a83a409afa1d1324ac692a703c5/transformed/jetified-groupie-2.10.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f921832ced5dd6ca5a8d14047c012e21/transformed/groupie-2.10.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7095abecb0a473939d396ae4af180457/transformed/jetified-groupie-2.10.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50a268301c8c6e6203c3db3867ca1d73/transformed/jetified-groupie-2.10.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cdd7f9c3f08449ac8bfc30fa323d3427/transformed/jetified-groupie-2.10.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/84cd78925fde93065ac015f921af19f0/transformed/jetified-groupie-2.10.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/84cd78925fde93065ac015f921af19f0/transformed/jetified-groupie-2.10.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/84cd78925fde93065ac015f921af19f0/transformed/jetified-groupie-2.10.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lisawray.groupie/groupie/2.10.1/186a72e626938f769cd8a2a08af5365f014a59cf/groupie-2.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

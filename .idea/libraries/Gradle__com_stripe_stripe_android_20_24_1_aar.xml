@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-android:20.24.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d3b3267e04c6a8ef76ff5b7316920ffa/transformed/jetified-stripe-android-20.24.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2edc5fd4c265d781fab805f175fa4b03/transformed/stripe-android-20.24.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2150aa1bf5292763db9aedc627fe6880/transformed/jetified-stripe-android-20.24.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4077ddd7981caff50e35f25fbd37cb43/transformed/jetified-stripe-android-20.24.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fab057bbcad2e2a5ccd0b0315437edfe/transformed/jetified-stripe-android-20.24.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb78c62feafed11fb57b836e4e15d035/transformed/jetified-stripe-android-20.24.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cb78c62feafed11fb57b836e4e15d035/transformed/jetified-stripe-android-20.24.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb78c62feafed11fb57b836e4e15d035/transformed/jetified-stripe-android-20.24.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.stripe/stripe-android/20.24.1/9b394cb1f76b73a103db6e8dbc095f567315b965/stripe-android-20.24.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

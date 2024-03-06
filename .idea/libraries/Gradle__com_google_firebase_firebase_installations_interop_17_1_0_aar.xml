@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-installations-interop:17.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a7eff88af282081125c37734437dd92/transformed/jetified-firebase-installations-interop-17.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/05a62a27ad2eedc678e9fdf805add527/transformed/firebase-installations-interop-17.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cc026f2ccdc4a46f446e0314c1ed016a/transformed/jetified-firebase-installations-interop-17.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d4670f469e08ae0d04985c6f537ddf1c/transformed/jetified-firebase-installations-interop-17.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c3a16867f8a9417c7822444e4a252490/transformed/jetified-firebase-installations-interop-17.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f354e8efe195e07a40a69637867ffd77/transformed/jetified-firebase-installations-interop-17.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f354e8efe195e07a40a69637867ffd77/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f354e8efe195e07a40a69637867ffd77/transformed/jetified-firebase-installations-interop-17.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-installations-interop/17.1.0/4fd04ebe2d8d8f9bf658db62a507d7a0161c362a/firebase-installations-interop-17.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-installations-interop/17.1.0/5998843857375da90db2675c2dce6814d97d16ff/firebase-installations-interop-17.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

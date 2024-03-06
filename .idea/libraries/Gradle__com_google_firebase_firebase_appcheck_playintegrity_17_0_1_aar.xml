@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-appcheck-playintegrity:17.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5d1f23bc97341b84a232f819b0e57b5/transformed/jetified-firebase-appcheck-playintegrity-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b8abd8945fdc752e8651a074d9f51e1/transformed/firebase-appcheck-playintegrity-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e44acc3ad95dea72af9e37d3a4caae88/transformed/jetified-firebase-appcheck-playintegrity-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e9add1aa3a3dc77b99dcc6ce1225a862/transformed/jetified-firebase-appcheck-playintegrity-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1084a11c790eb5be2918304ccf45e0e3/transformed/jetified-firebase-appcheck-playintegrity-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/91c130bb1fffb2bb5b391ad5fa954437/transformed/jetified-firebase-appcheck-playintegrity-17.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/91c130bb1fffb2bb5b391ad5fa954437/transformed/jetified-firebase-appcheck-playintegrity-17.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/91c130bb1fffb2bb5b391ad5fa954437/transformed/jetified-firebase-appcheck-playintegrity-17.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-appcheck-playintegrity/17.0.1/32920c65c2a2a3f074be35666a42890a42bb43eb/firebase-appcheck-playintegrity-17.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

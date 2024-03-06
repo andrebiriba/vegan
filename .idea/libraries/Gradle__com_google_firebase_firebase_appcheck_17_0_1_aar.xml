@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-appcheck:17.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a5a709cfdb48b086a2d238e9bdc97f0b/transformed/jetified-firebase-appcheck-17.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f94b343091b803f0aa9e05f452bfc0c8/transformed/jetified-firebase-appcheck-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/22112bab35c827d96a058b8e7e56e3b1/transformed/firebase-appcheck-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5bee63c66d456f6e330701af12aba7b5/transformed/jetified-firebase-appcheck-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cfc1eaa0a25dab45e1c1474b878fc991/transformed/jetified-firebase-appcheck-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1de2579cd7398b832b95074cf635c9bf/transformed/jetified-firebase-appcheck-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a5a709cfdb48b086a2d238e9bdc97f0b/transformed/jetified-firebase-appcheck-17.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a5a709cfdb48b086a2d238e9bdc97f0b/transformed/jetified-firebase-appcheck-17.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a5a709cfdb48b086a2d238e9bdc97f0b/transformed/jetified-firebase-appcheck-17.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-appcheck/17.0.1/fe3d97706ad9bbc1ee5cd69a399ef4080815f6c9/firebase-appcheck-17.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-sessions:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4a366619ed9779255c7892562b6bf906/transformed/jetified-firebase-sessions-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dff9d11e3c5b67a23439706c46eff13f/transformed/firebase-sessions-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/40e144fdd106643116746ddf791ca522/transformed/jetified-firebase-sessions-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f7e71960d21fdd70f9933c5f2c47e7b/transformed/jetified-firebase-sessions-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b3296b16552e13acc4a36b55b3052d2f/transformed/jetified-firebase-sessions-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a87f92fe961963e5d72c36b7727c7f4/transformed/jetified-firebase-sessions-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5a87f92fe961963e5d72c36b7727c7f4/transformed/jetified-firebase-sessions-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a87f92fe961963e5d72c36b7727c7f4/transformed/jetified-firebase-sessions-1.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-sessions/1.0.2/eee15d618ee5d0453f09353e0f9624189ccc47bd/firebase-sessions-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Drjacky:ImagePicker:2.3.22@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c3e51f77f41dd4e355163a5be347eb97/transformed/jetified-ImagePicker-2.3.22/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c3e51f77f41dd4e355163a5be347eb97/transformed/jetified-ImagePicker-2.3.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c3e51f77f41dd4e355163a5be347eb97/transformed/jetified-ImagePicker-2.3.22/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Drjacky/ImagePicker/2.3.22/7c1fe620debfd6c17caa422e2ffbb7b6f9edae78/ImagePicker-2.3.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
